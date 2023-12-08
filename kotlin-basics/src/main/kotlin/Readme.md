@@ -1,1 +1,1 @@
-kotlin-basics from https://www.udemy.com/course/api-und-kotlin/
+https://kotlinlang.org/docs/kotlin-tour-basic-types.html
